@@ -1,0 +1,14 @@
+{
+	"geode": "4.2.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "omegalinc.goodbye_recent_tab",
+	"name": "Goodbye, Recent Tab",
+	"version": "1.0.0",
+	"developer": "OMEGAlinc",
+	"description": "Removes the recent tab. (I made this mod as a joke lol)"
+}
